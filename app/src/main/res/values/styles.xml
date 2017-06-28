@@ -1,0 +1,75 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Type/Number of stars layout style in business_list_item-->
+    <style name="business_layout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignBottom">@id/location_image</item>
+        <item name="android:layout_alignRight">@id/location_image</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <!--Type/Star icon style in business_list_item-->
+    <style name="business_icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!--Style for top layouts containing location information-->
+    <style name="information_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/primaryLightText</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">@dimen/marginNormal</item>
+        <item name="android:paddingLeft">@dimen/marginNormal</item>
+        <item name="android:paddingRight">@dimen/marginNormal</item>
+        <item name="android:paddingTop">@dimen/marginBig</item>
+    </style>
+
+    <!--Style for sheets containing location information-->
+    <style name="information_sheet_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/marginSmall</item>
+        <item name="android:background">@color/primaryLightText</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!--Sheets title textview style-->
+    <style name="sheet_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/marginSmall</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/primaryDarkText</item>
+        <item name="android:textSize">@dimen/subtitleSize</item>
+    </style>
+
+    <!--Location image style-->
+    <style name="location_image_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!--Texts containing pieces of contact style-->
+    <style name="contact_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">@dimen/marginSmall</item>
+        <item name="android:padding">@dimen/marginSmall</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+</resources>

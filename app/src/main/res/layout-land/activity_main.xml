@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.discoverourense.MainActivity">
+
+    <VideoView
+        android:id="@+id/promotional_video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/hintDarkText" />
+
+    <TextView
+        android:id="@+id/cover_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingBottom="@dimen/separation"
+        android:gravity="center_horizontal"
+        android:textColor="@color/primaryLightText"
+        android:textSize="@dimen/headSize" />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/separation"
+        android:onClick="explore"
+        android:paddingBottom="@dimen/marginNormal"
+        android:paddingLeft="@dimen/marginExtraBig"
+        android:paddingRight="@dimen/marginExtraBig"
+        android:paddingTop="@dimen/marginNormal"
+        android:text="@string/explore"
+        android:textColor="@color/primaryLightText" />
+</RelativeLayout>

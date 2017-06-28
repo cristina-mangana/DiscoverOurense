@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/location_image"
+        tools:ignore="contentDescription"
+        style="@style/location_image_style" />
+
+    <LinearLayout
+        style="@style/business_layout"
+        android:padding="@dimen/marginSmall">
+
+        <ImageView
+            android:id="@+id/star_five"
+            style="@style/business_icon"
+            android:contentDescription="@string/star_content_description"
+            android:src="@drawable/ic_star_white_24dp" />
+
+        <ImageView
+            android:id="@+id/star_four"
+            style="@style/business_icon"
+            android:contentDescription="@string/star_content_description"
+            android:src="@drawable/ic_star_white_24dp" />
+
+        <ImageView
+            android:id="@+id/star_three"
+            style="@style/business_icon"
+            android:contentDescription="@string/star_content_description"
+            android:src="@drawable/ic_star_white_24dp" />
+
+        <ImageView
+            android:id="@+id/star_two"
+            style="@style/business_icon"
+            android:contentDescription="@string/star_content_description"
+            android:src="@drawable/ic_star_white_24dp" />
+
+        <ImageView
+            android:id="@+id/star_one"
+            style="@style/business_icon"
+            android:contentDescription="@string/star_content_description"
+            android:src="@drawable/ic_star_white_24dp" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/business_layout">
+
+        <ImageView
+            android:id="@+id/type_bar"
+            style="@style/business_icon"
+            android:contentDescription="@string/bar_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_bar" />
+
+        <ImageView
+            android:id="@+id/type_restaurant"
+            style="@style/business_icon"
+            android:contentDescription="@string/restaurant_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_restaurant" />
+
+        <ImageView
+            android:id="@+id/type_tapas"
+            style="@style/business_icon"
+            android:contentDescription="@string/tapas_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_tapas" />
+
+        <ImageView
+            android:id="@+id/type_galician"
+            style="@style/business_icon"
+            android:contentDescription="@string/galician_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_galician" />
+
+        <ImageView
+            android:id="@+id/type_japanese"
+            style="@style/business_icon"
+            android:contentDescription="@string/japanese_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_japanese" />
+
+        <ImageView
+            android:id="@+id/type_grill"
+            style="@style/business_icon"
+            android:contentDescription="@string/grill_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_grill" />
+
+        <ImageView
+            android:id="@+id/type_mexican"
+            style="@style/business_icon"
+            android:contentDescription="@string/mexican_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_mexican" />
+
+        <ImageView
+            android:id="@+id/type_wine"
+            style="@style/business_icon"
+            android:contentDescription="@string/wine_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_wine" />
+
+        <ImageView
+            android:id="@+id/type_fast_food"
+            style="@style/business_icon"
+            android:contentDescription="@string/fast_food_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_fast_food" />
+
+        <ImageView
+            android:id="@+id/type_italian"
+            style="@style/business_icon"
+            android:contentDescription="@string/italian_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_italian" />
+
+        <ImageView
+            android:id="@+id/type_turkish"
+            style="@style/business_icon"
+            android:contentDescription="@string/turkish_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_turkish" />
+
+        <ImageView
+            android:id="@+id/type_american"
+            style="@style/business_icon"
+            android:contentDescription="@string/american_content_description"
+            android:padding="@dimen/marginSmall"
+            android:src="@drawable/ic_american" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@id/location_image"
+        style="@style/information_layout">
+
+        <TextView
+            android:id="@+id/location_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primaryDarkText"
+            android:textSize="@dimen/headSize" />
+
+        <TextView
+            android:id="@+id/location_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/secondaryDarkText"
+            android:textSize="@dimen/textSize" />
+
+    </LinearLayout>
+
+</RelativeLayout>

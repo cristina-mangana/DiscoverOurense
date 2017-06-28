@@ -1,0 +1,999 @@
+<resources>
+    <!-- App Name [CHAR LIMIT = 20]. Ourense = Name of the city-->
+    <string name="app_name">Discover Ourense</string>
+
+    <!-- City Name-->
+    <string name="ourense">Ourense</string>
+
+    <!--Cover slogan [CHAR LIMIT=15]-->
+    <string name="fall_in_love">Fall in love with\n
+        <xliff.g example="Ourense" id="city name">%s</xliff.g></string>
+
+    <!--Button strings [CHAR LIMIT=15]-->
+    <string name="explore">EXPLORE</string>
+
+    <!--Content description [CHAR LIMIT=NONE]-->
+    <string name="star_content_description">Number of stars</string>
+    <string name="bar_content_description">This business is a bar</string>
+    <string name="restaurant_content_description">This business is a restaurant</string>
+    <string name="tapas_content_description">This business is a tapas bar</string>
+    <string name="galician_content_description">This business is a Galician food restaurant</string>
+    <string name="japanese_content_description">This business is a Japanese restaurant</string>
+    <string name="grill_content_description">This business is a grill restaurant</string>
+    <string name="mexican_content_description">This business is a Mexican food restaurant</string>
+    <string name="wine_content_description">This business is a wine cellar</string>
+    <string name="fast_food_content_description">This business is a fast-food restaurant</string>
+    <string name="italian_content_description">This business is an Italian food restaurant</string>
+    <string name="turkish_content_description">This business is a Turkish food restaurant</string>
+    <string name="american_content_description">This business is an American food
+        restaurant</string>
+
+    <!--Titles [CHAR LOMIT=15]-->
+    <string name="type_title">Type of food</string>
+    <string name="stars_title">Stars</string>
+
+    <!--Types of restaurants [CHAR LIMIT=15]-->
+    <string name="bar_type">bar</string>
+    <string name="restaurant_type">restaurant</string>
+    <string name="tapas_type">tapas</string>
+    <string name="galician_type">Galician</string>
+    <string name="japanese_type">Japanese</string>
+    <string name="grill_type">grill</string>
+    <string name="mexican_type">Mexican</string>
+    <string name="wine_type">wine</string>
+    <string name="fast_food_type">fast-food</string>
+    <string name="italian_type">Italian</string>
+    <string name="turkish_type">Turkish</string>
+    <string name="american_type">American</string>
+
+    <!--Things to do. Titles [CHAR LIMIT=20]-->
+    <string name="do_title_trekking_1">Trekking</string>
+    <string name="do_title_thermal_2">Thermal Tourism</string>
+    <string name="do_title_rural_3">Rural Tourism</string>
+    <string name="do_title_btt_4">BTT</string>
+    <string name="do_title_theatre_5">Theatre</string>
+    <string name="do_title_music_6">Concerts</string>
+    <string name="do_title_museums_7">Museums</string>
+    <string name="do_title_routes_8">Tourist Routes</string>
+    <string name="do_title_santiago_9">The Way to Santiago</string>
+    <string name="do_title_catamaran_10">Catamaran Trips</string>
+    <string name="do_title_train_11">Thermal Train</string>
+    <string name="do_title_familiar_12">Familiar Vacation</string>
+    <string name="do_title_entroido_13">Popular Festivals</string>
+    <string name="do_title_maios_14">Popular Festivals</string>
+    <string name="do_title_magosto_15">Popular Festivals</string>
+    <string name="do_title_samhain_16">Popular Festivals</string>
+    <string name="do_title_festivities_17">Popular Festivals</string>
+    <string name="do_title_wine_18">Wine</string>
+    <string name="do_title_gastronomy_19">Gastronomy</string>
+    <string name="do_title_night_20">Night Life</string>
+
+    <!--Things to do. Short description [CHAR LIMIT=36]-->
+    <string name="do_short_trekking_1">Walk on your own way</string>
+    <string name="do_short_thermal_2">City of Water</string>
+    <string name="do_short_rural_3">Take a break</string>
+    <string name="do_short_btt_4">Ride your bike</string>
+    <string name="do_short_theatre_5">Feelings to the surface</string>
+    <string name="do_short_music_6">Release your inner Rock\'n\'Roll</string>
+    <string name="do_short_museums_7">Cultural activity</string>
+    <string name="do_short_routes_8">Discovering Ourense</string>
+    <string name="do_short_santiago_9">A must stop</string>
+    <string name="do_short_catamaran_10">Enjoy the Sil Canyon</string>
+    <string name="do_short_train_11">City tour</string>
+    <string name="do_short_familiar_12">Activities for the entire family</string>
+    <string name="do_short_entroido_13">Entroido</string>
+    <string name="do_short_maios_14">Os Maios</string>
+    <string name="do_short_magosto_15">Magosto</string>
+    <string name="do_short_samhain_16">Samhain</string>
+    <string name="do_short_festivities_17">Festivities</string>
+    <string name="do_short_wine_18">Products with Denomination of Origin</string>
+    <string name="do_short_gastronomy_19">Flavours from Ourense</string>
+    <string name="do_short_night_20">\"Os Viños\" District</string>
+
+    <!--Things to do. Long description [CHAR LIMIT=NONE]-->
+    <string name="do_long_trekking_1">With a privileged location, a valley crossed by rivers and
+        surrounded by hills, Ourense has natural landscapes of great beauty that are worth
+        exploring, starting with its rivers. Walking the banks of the Minho means to discover a
+        world of small animals and riverside forests where to get lost, going through paths that
+        extend along its tributaries, kilometres and kilometres of nature.\n\nIf you want more, here
+        you have an ideal base camp to discover a province where nature becomes legend: river Sil\'s
+        canyons, Invernadoiro Natural Park, Baixa Limia-Gerés, the snowy mountains of Peña Trevinca,
+        and so on.</string>
+    <string name="do_long_thermal_2">The banks of river Minho constitute the city\'s great green
+        artery: several kilometres of lush vegetation for walking, running or cycling while
+        admiring nature and the landscape. In the most western section, after the Millennium Bridge,
+        we find several springs of thermal water, many of them equipped for bathing.\n\nThe route
+        begins on the right bank of the river, in the thermal area of A Chavasqueira, the closest
+        one to the city. The path continues to O Tinteiro, and from there to the thermal area of ​​
+        Muíño da Veiga with its four pools. A little further on, the Outariz Thermal Station offers
+        beauty treatments, a sauna and two thermal circuits at very competitive prices. Also, the
+        pools of Outariz and Burga de Canedo is the largest area of thermal activity in Ourense,
+        which is also free.</string>
+    <string name="do_long_rural_3">If you ascend to the areas of Cudeiro, Vilar, Palmés or Seixalbo,
+        you will not only enjoy breathtaking views of the city of bridges, but you will also find
+        rural villages that still retain their traditional architecture. In their ancient paths,
+        camouflaged among the vegetation of the Ourense forest (halfway between the Atlantic and the
+        Mediterranean forest), hiking and cycling routes are waiting for you, ideal to enter this
+        green Ourense, a great unknown.</string>
+    <string name="do_long_btt_4">Trails along the river, paths between forests, urban parks,
+        panoramic viewpoints&#8230; get ready to ride your bike and discover spectacular landscapes
+        surrounding the city.</string>
+    <string name="do_long_theatre_5">Ourense is undoubtly a city related with arts. All over the
+        year, you can assist to numerous theatre festivals, some of them are performed around the
+        streets and some others take place in the Municipal Auditorium or the Principal Theatre.\n
+        \nThe Principal Theatre is closely linked, in the memory of the city, to the traveling
+        circuses that with their shows were the delight of young and old. One of the most famous in
+        Ourense in the first decades of the 20th century was the Circo Feijóo, run by Secundino
+        Feijóo, a native of Vilanova dos Infantes (Celanova). One of its main attractions was
+        Mendoff, the tamer of the beasts, also captain of the cossacks, admired for his bravery and
+        courage. One day a student asked Mendoff for his origins, and he replied, half in secret,
+        that he was from Celanova, as his boss. But of course, it is more interesting to proclaim
+        that the tamer was a fierce Russian.</string>
+    <string name="do_long_music_6">Ourense has had few ambassadors as popular as Los Suaves, the
+        legendary rock band led by brothers Yosi and Charly Domínguez. These musicians have always
+        maintained a close relationship with the city, present in their songs, lyrics and disc
+        covers, such as the legendary San Francisco Express. This feeling of rock spreads through
+        Ourense\'s nightlife, in the area of \"Os Viños\". Here, a square bears their name.\n\n
+        Following their school of rock, the city has seen the appearance of other historical bands,
+        such as Megapearls, Mitocondrias or Cosecha Roja (today Burgas Beat). In the current
+        scenario, we should highlight BestLife (UnderYourSeat), with a certain Anglo-Saxon
+        influence, and Os Amigos dos Músicos, who play quality folk-pop and are regulars of Café
+        Pop Torgal, a little café near the university area, in which are programmed first line
+        acoustic concerts, as well as interesting seasons like the American Autumn. Especially
+        active and punk-minded are the team in charge of El Pueblo, a venue for concerts on Hernán
+        Cortés street, deep in the old city.\n\nFolk music has also played a significant role in the
+        city\'s music scene, notably with band Mutenrohi. They were inspired from the rich Galician
+        musical folklore that institutions such as the Royal Bagpipe Band or the Choir of Ruada have
+        promoted for years. Mixing traditional music with other tropical sounds and rhythms, two
+        unforgettable bands, Lamatumbá and O Sonoro Maxín, stood out for their anthems, essential in
+        the festivals that flood Galicia every summer.</string>
+    <string name="do_long_museums_7">Ourense has always had a special relationship with the world
+        of arts and culture. At its most splendid moment, in the early 20th century, it came to be
+        known as the \"Athens of Galicia\", the birthplace of the so-called Generation Nós, a group
+        of intellectuals who led the renewal and modernization of Galician culture.\n\nThe epithet is
+        not capricious; a very important list of writers, musicians and artists were very closely
+        linked to the old Auria, having left their mark there.\n\nYou can enjoy some fabulous artistic
+        works on the several museums located in the city.</string>
+    <string name="do_long_routes_8">A different and healthy way of getting to know Ourense is to get
+        out of its urban centre to discover its green belt, ideal for hiking. The gentle orography
+        invites you to take long walks through landscapes and places of great natural, historical
+        and ethnographic interest; trails, paths and tracks that will take you through magical
+        places.</string>
+    <string name="do_long_santiago_9">The Mozarabic Way is the longest Galician Jacobean Way:
+        connecting Sevilla and Santiago de Compostela while extending an ancient Roman road that
+        linked Merida with Astorga. The pilgrim that follows the old Via de la Plata takes the
+        detour in Granja de la Moreruela (Zamora) up to A Gudiña, where there are two routes for
+        Santiago (one going across Laza and the other across Verin) leading to Ourense.\n\nOurense
+        receives the pilgrims in the rural village of Seixalbo, a set of ethnographic value still
+        retaining its medieval trace. From there, the Way enters the city from the south, going
+        through Zamora Avenue and Progreso Street to As Burgas, the hot springs which every pilgrim
+        must visit since the Middle Ages.</string>
+    <string name="do_long_catamaran_10">The Ribeira Sacra is the area north of the province around
+        the banks of rivers Sil and Minho, known for its impressive natural wealth and heritage.
+        Its name (meaning “Holy Riverbank”) comes from the Middle Ages, and has its origin in the
+        number of monasteries that had been built in it, among which are San Esteban de Ribas de
+        Sil, San Pedro de Rocas and Santa Cristina de Ribas de Sil. There is much to see, but above
+        all you must visit river Sil’s canyons: from their viewpoints you can admire the spectacular
+        landscape, and from a catamaran sailing the river you will appreciate their sheer
+        monumentality.</string>
+    <string name="do_long_train_11">From the Main Square, in the Historic Centre, A Chavasqueira
+        thermal baths (the closest ones to the city centre) are just over two kilometres on foot;
+        going there will take you a half hour. But if you want to get closer to Outariz and Burga de
+        Canedo, the last pools of river Minho\'s Thermal Route, the distance increases to 7
+        kilometres. The most comfortable alternative is to use the Thermal Train, which will take
+        you to the thermal area of Outariz through the river lane, stopping at all the pools and
+        crossing the arches of the Old Bridge, in a 30-minute trip in which you will enjoy the
+        beautiful views of Ourense. </string>
+    <string name="do_long_familiar_12">Comfortable, quiet, safe&#8230; and with lots of activities
+        to have a great time! Ourense is undoubtedly a destination that will delight the travelers
+        with family, with many proposals designed for the children of the house, enjoying the
+        outdoors or learning about the history and customs of the city while having fun. And don’t
+        forget a good dip in thermal water!\n\nIf you visit the city in a weekend, on Sunday you
+        should go to Carrileiros Railroad Park, where you can enter the exciting world of trains and
+        even riding on a scale locomotive. The venue has a circuit of almost 500 metres of railway
+        where the trains circulate, in a route with all possible details.</string>
+    <string name="do_long_entroido_13">A feast of subversion and good humour, the Entroido
+        (Carnival) is a very traditional celebration in Ourense, as it kept being held despite
+        prohibitions in past times. The province concentrates up to seven carnivals declared of
+        tourist interest, making the capital the perfect starting point to discover them. If you
+        visit the city in February, ypu must wear a disguise, otherwise, you risk to have to pay
+        for rounds at the bars, and you have to taste the typical product of these dates, the
+        ears.</string>
+    <string name="do_long_maios_14">The feast of the nature par excellence, announcing the splendour
+        of the flowers and the farewell of the cold winter. Of uncertain origin, this rite is
+        celebrated since very remote times in several places of Galicia, although in Ourense it has
+        remarkable and singular characteristics, besides being a local holiday. On the first Sunday
+        of May, handmade sculptures of moss and flowers occupy the Alameda central promenade
+        displaying traditional (pyramidal) or figurative shapes, always accompanied by songs:
+        satirical verses on current issues that are traditionally sold in exchange for a
+        tip.</string>
+    <string name="do_long_magosto_15">The feast in honour of Saint Martin of Tours, patron of
+        Ourense, announces the arrival of the popular Magostos, in which groups of friends and
+        family gather around large bonfires to roast the first chestnuts and try the new wine. The
+        party lasts all day and part of the night, always seasoned with roasted sausages, songs and
+        a final toast with queimada, evoking ancient rites of purification. It is common to
+        celebrate the Magostos in the mountains surrounding the city, especially Montealegre,
+        although the urbanites can always go to the big bonfire that the City Council organizes in
+        the Alameda Park. It is celebrated on November 11th.</string>
+    <string name="do_long_samhain_16">The longest night of the year is celebrated in Ourense with a
+        parade of pumpkins illuminated with candles through the streets of the Historic Centre.
+        Although its best-known version is American Halloween, the truth is that Samhain is a feast
+        of Celtic origins (in agricultural terms, the farewell of the long days of the summer) that
+        in Galicia has been celebrated for centuries, although it was about to get lost. For some
+        years in Ourense it has been celebrated with new forces, with workshops where girls and
+        boys prepare the pumpkins with which they will then parade dressed as skeletons, ghosts,
+        witches, etc. The celebrations extend all night and, as during Entroido, the disguises
+        abound, as dark as possible.</string>
+    <string name="do_long_festivities_17">Although Ourense does not celebrate its patron\'s feast
+        until autumn, the Festivities take advantage of June\'s warmer weather and the celebration
+        of Corpus Christi, a very traditional feast here. There are two weeks of festival in the
+        city with non-stop activities: orchestras, concerts, parades, sports, children\'s activities
+        and so on. The fireworks of its closing ceremony are indispensable, and for the most daring
+        ones, the classic Ourense Rallye.</string>
+    <string name="do_long_wine_18">There are few places in Europe with so many products with
+        denomination of origin as Ourense. This is especially evident in the case of wine: four of
+        the five denominations that exist in Galicia are found in this province. A very long
+        tradition that has its roots in the Roman presence and the monasteries, and which was
+        already referred by the medieval King Alfonso X the Wise who sang the delights of the \"good
+        wine from Ourense\".</string>
+    <string name="do_long_gastronomy_19">Ourense concentrates the best of the different gastronomic
+        cultures in Galicia: from the coast it adopted the taste for the octopus, and from the
+        inland the taste for meats and homegrown vegetables. Many of the most renowned products of
+        Galician gastronomy are produced here, several of them protected with denominations of
+        origin.</string>
+    <string name="do_long_night_20">If there is a place in the city where people converge naturally,
+        especially on weekend nights, it is certainly \"Os Viños\" in the Historic Centre, the tapas
+        area par excellence of Ourense. This set of streets, united at one end by Blacksmiths\'
+        Square and ending around the Cathedral, concentrates plenty of bars, restaurants and taverns
+        where to enjoy the gastronomy and wine tradition of Ourense, sharing snacks, tapas and songs
+        in good company. Although there are more and more proposals for a complete dinner and menu
+        à la carte, the tradition is still to try some snacks at the foot of the bar making short
+        stops: as tradition says, a snack per bar.</string>
+
+    <!--Places to see. Titles [CHAR LIMIT=35]-->
+    <string name="see_title_cathedral_1">Cathedral</string>
+    <string name="see_title_bridge_2">Roman Bridge</string>
+    <string name="see_title_burgas_3">As Burgas</string>
+    <string name="see_title_main_square_4">Main Square</string>
+    <string name="see_title_millennium_5">Millennium Bridge</string>
+    <string name="see_title_old_town_6">Old Town</string>
+    <string name="see_title_ferro_7">Praza do Ferro</string>
+    <string name="see_title_eufemia_8">St Euphemia\'s Church</string>
+    <string name="see_title_praza_9">Plaza of Supplies</string>
+    <string name="see_title_cosme_10">Saints Cosmas and Damian Chapel</string>
+    <string name="see_title_cloister_11">St Francis\' Cloister</string>
+    <string name="see_title_alameda_12">Alameda Park</string>
+    <string name="see_title_posio_13">O Posío Garden</string>
+    <string name="see_title_santa_maria_14">Church of Holy Mary, Mother of God</string>
+    <string name="see_title_paradise_15">Gate of Paradise</string>
+    <string name="see_title_theatre_16">Principal Theatre</string>
+    <string name="see_title_auditorium_17">Municipal Auditorium</string>
+    <string name="see_title_sil_18">Ribeira Sacra</string>
+    <string name="see_title_pedro_19">St Peter Monastery</string>
+    <string name="see_title_waterfalls_20">Natural Waterfalls</string>
+    <string name="see_title_castro_21">Natural Site of Santomé</string>
+    <string name="see_title_velle_22">Velle Dam</string>
+
+    <!--Places to see. Short description [CHAR LIMIT=50]-->
+    <string name="see_short_cathedral_1">The element that articulates the Historic Centre</string>
+    <string name="see_short_bridge_2">An engineering milestone in antiquity</string>
+    <string name="see_short_burgas_3">Meet the Nymphs of As Burgas</string>
+    <string name="see_short_main_square_4">Centre and heart of monumental Ourense</string>
+    <string name="see_short_millennium_5">The entrance to the new millennium</string>
+    <string name="see_short_old_town_6">Get lost in a maze of Stone and History</string>
+    <string name="see_short_ferro_7">Impressive crossroad</string>
+    <string name="see_short_eufemia_8">Archetype of Galician Baroque</string>
+    <string name="see_short_praza_9">Flowers, steep streets, unique pies</string>
+    <string name="see_short_cosme_10">A beautiful portrait of Ourense</string>
+    <string name="see_short_cloister_11">The last remain of a Franciscan convent</string>
+    <string name="see_short_alameda_12">Back to the late 19th century</string>
+    <string name="see_short_posio_13">Old botanical garden</string>
+    <string name="see_short_santa_maria_14">Site of the original cathedral</string>
+    <string name="see_short_paradise_15">Discover the colours of Paradise</string>
+    <string name="see_short_theatre_16">Flirtatious Italian-style theatre</string>
+    <string name="see_short_auditorium_17">A large multipurpose space</string>
+    <string name="see_short_sil_18">Birthplace of the legendary \"Amandi\"</string>
+    <string name="see_short_pedro_19">Peace and harmony</string>
+    <string name="see_short_waterfalls_20">Where nature becomes legend</string>
+    <string name="see_short_castro_21">See the sunset from a Pre-Roman settlement</string>
+    <string name="see_short_velle_22">Fantastic views of the city</string>
+
+    <!--Places to see. Long description [CHAR LIMIT=NONE]-->
+    <string name="see_long_cathedral_1">The history of the Cathedral of Ourense is a journey of more
+        than 8 centuries of construction and alterations that have shaped its structure: a temple of
+        Latin cross with influences of Compostela and Cistercian art, made in late Romanesque style
+        with notes of Gothic. Its elevation is usually dated between the 12th and 13th centuries and
+        is one of the main monuments of the city, around which the streets of the historic centre
+        are articulated.\n\nMonumental and majestic, Ourense\'s Cathedral still retains an air of the
+        fortress that was in his past, which may be suspected from the towers and battlements of the
+        southern facade. At the top stands out, for its spectacular height, the beautiful late
+        Gothic dome, built in the 16th century.\n\nInside, with austere and elegant lines, the
+        atmosphere of serenity and seclusion invites to walk around the ambulatory and its various
+        chapels.\n\nIf we look closely to the northern gate, its authors have left a joke for
+        posterity. We must find a character showing us his back. If we lower the view vertically
+        from this figure to the ground we will see a small gap that remains curiously with water
+        almost all year&#8230;</string>
+    <string name="see_long_bridge_2">This Roman bridge is one of the historical landmarks of the
+        city, linked to its origins. When it was built it was a strategic passage, the only point
+        in many kilometres to cross river Minho. It was declared a Historic Monument in 1961. You
+        must cross it while walking the Mozarabic Way – Via de la Plata to Santiago de Compostela.\n
+        \nThe bridge also had a tower (appearing on the city\'s coat of arms) which was demolished
+        in the 19th century. Attached to the old bridge, with which it forms a historic monument, is
+        the chapel of Our Lady of Los Remedios.</string>
+    <string name="see_long_burgas_3">You can not (or should not) leave Ourense without touching the
+        water from these sources, one of the three “treasures” traditionally sung of the city: it
+        comes from underground aquifers more than a kilometre deep and flows at +60°C. With these
+        temperatures, it is not difficult to imagine the therapeutic uses which had over time. Its
+        history dates back to the times of the Roman settlers.\n\nThis area is traditionally divided
+        into three sections: the monumental fountain or \"Burga de Abaixo\"; the central esplanade,
+        where the thermal pool is located; and the \"Burga de Arriba\".\n\nOn the lower level, you
+        will find the recognizable silhouette of a Neoclassic fountain attributed to master Trillo.
+        It consists of two side pipes and a pile carved with a finial in the centre, crowned by the
+        coat of arms of the city. It was designed as a nymphaeum, a dwelling for nymphs, evoking the
+        Roman past of the area which was already suspected back then. On one side is the
+        \"Fervedoiro\", a square pond where you can see the water bubbling at boiling
+        point.</string>
+    <string name="see_long_main_square_4">For centuries, the Main Square has been the heart of the
+        historic centre, and still is the main meeting point in the city. Bright, wide and arcaded,
+        it is irregular in shape and has the distinction of being one of the few main squares in
+        Europe with a slightly sloping floor.\n\nThe space is dominated by the facade of the City
+        Hall, designed by Queralt, occupying the only side without arcades. Next to it stands the
+        Old Bishop\'s Palace.\n\nThe other three sides are the arches that form the Promenade, a
+        former lane for the aristrocracy reconverted nowadays into one of the downtown\'s liveliest
+        areas with its terraces. Above it, the beautiful facades of noble houses from the 18th and
+        19th centuries with tiles.</string>
+    <string name="see_long_millennium_5">In 1998 the Old Bridge was definitively closed to car
+        traffic. The following year the City Council laid the foundation stone of this bridge,
+        which would be inaugurated on September 1st, 2001. Its opening meant not only a considerable
+        relief to city traffic, but immediately became a symbol of contemporary Ourense, the moving
+        city that overlooks the new millennium.\n\nA work of markedly avant-garde aesthetics, its
+        was designed by architect Álvaro Varela. It features an unique elliptical shape, being
+        especially curious its pedestrian walkway that rises 22 metres, leading to extraordinary
+        viewpoints over river Minho.\n\nIts construction created a curious wave in the waters of
+        river Minho, the Millennium Wave, which has since been used to water sports.</string>
+    <string name="see_long_old_town_6">Manor pits, thermal springs, museums or large temples such as
+        the cathedral, one of the best examples of Romanesque throughout the Iberian Peninsula, are
+        some of the ingredients that make Ourense a small big beauty; all of this located in a short
+        number of streets, conforming the historical centre of the city.</string>
+    <string name="see_long_ferro_7">The Praza do Ferro is a crossroad more than a square, for that
+        reason it is also named "Cruz de Ferro". Here, it was celebrated the market of the old
+        blacksmiths, where were sold farm implements, pots and pans came from all over Galicia.\n\n
+        It is formed by a square almost triangular, delimited in the west by the arcades and ancient
+        buildings. Also, we can see the palace built in the 16th century by Don Juan Fernandez de
+        Boan and Landecho.\n\nIn the center of the square there is a beautiful Renaissance fountain,
+        which was originally located in San Esteban de Ribas de Sil Monastery. It has sirens at its
+        base, caryatids, eros and two eagles crowning it.\n\nThis square is considered one of the
+        Galician historical cultural nuclei, because here were born or lived writers and scholars
+        like Vicente Risco, Otero Pedrayo, Florentino López Cuevillas, Xoaquín Lorenzo "Xocas" and
+        Eduardo Blanco Amor.</string>
+    <string name="see_long_eufemia_8">Originally belonging to a former Jesuit school, since 1767 it
+        is part of the diocese as a parish church. Its facade, made by Brother Plácido Iglesias, is
+        an archetype of Galician Baroque, combining sumptuousness, the use of curved lines and the
+        play of light with the most typical details of Galician art: the use of granite, the giant
+        order of columns, pinnacles or pediments with cross. Especially striking is its concave
+        shape, a possible resource for greater monumentality despite the narrowness of the street,
+        as St Euphemia’s Square is modern and subsequent to the church.\n\nThe interior, very
+        austere, has a Latin cross floor with three longitudinal naves. A large Baroque altar presides
+        over the church with the Christ of Hope in the centre.</string>
+    <string name="see_long_praza_9">This market square is the most important market of the city, and
+        well worth a visit for its peculiarity. The building itself was built in 1929, and has more
+        palatial and stately atmosphere than market. The main access is done by a monumental
+        staircase. Inside you can find all kinds of fresh food stalls, mainly cheeses and dairy,
+        butchers and fishmongers.\n\nBut the most peculiar of this market is the exterior: Formerly
+        it was surrounded by vineyards, but they were flooded in 1945 when the Barbaña river
+        overflowed, so they disappeared and the land was filled. Since then, small buildings have
+        been built there, known as the \"Rianxo\". The exterior of the market is perfectly
+        classified by zones, depending on the products sold: Bakeries are all together in one area,
+        florists in another, vegetables in another and so on.\n\nIt opens from Monday to Saturday
+        from 8 to 15h.</string>
+    <string name="see_long_cosme_10">Small square in the place known in the Middle Ages as
+        «Arcade Fountain», the former site of one of the gates of the city.\n\nA fountain of modern
+        construction stands out, topped by a sculpture of children\'s themes by Antonio Faílde. In
+        one of its sides you may see the chapel that gives it its name: Saints Cosmas and Damian.
+        This 16th-century building houses one of the most curious museums, the Arturo Baltar
+        exhibition space and Baltar\'s nativity scene: over a hundred figures of clay that recreate
+        traditional scenes of the Galician countryside and the Ourense of yore.</string>
+    <string name="see_long_cloister_11">In the 14th century, after the fire that destroyed the first
+        Franciscan convent in the city, the order moved to this place on the side of Montealegre
+        Hill, where they remained until the 19th century. In 1843 the old convent was transformed
+        into infantry headquarters (until its closure in 1984), producing numerous reforms. The most
+        significant of them was the move of the apse and front of the church to St Lazarus\' Park,
+        where it was rebuilt. The orphaned cloister can now be visited.\n\nDeclared a National
+        Historic Monument in 1951, St Francis\' Cloister has outlived its eventful history retaining
+        the beauty of its 63 arches virtually untouched, all of them decorated with motifs of
+        plants, animals and humans. They are distributed around a seemingly square floor: neither
+        side has the same number of arches, which are supported by double columns except the first
+        four and last four in each row.\n\nIn the south side we may find the Chapel of the Venerable
+        Third Order, today transformed into a hostel for pilgrims, and the exhibition space where
+        part of the funds of the Provincial Archaeological Museum are shown. The set comes complete
+        with St Francis\' Cemetery, located in the old convent\'s former orchard.</string>
+    <string name="see_long_alameda_12">Of medieval origin, these gardens are nowadays one of the
+        places that still retain the charm of the late 19th and early 20th centuries, with superb
+        examples of Modernist architecture. Crossed by Progreso street, its upper half is called
+        Bishop Cesáreo\'s Gardens.\n\nFormer site for the councils, which were the neighborhood
+        meetings where the public affairs of the medieval city were discussed, it was also the
+        municipal orchard planted with olive trees. The aesthetic ideal of the powerful local
+        bourgeoisie was felt in the works of the architects of the time, Daniel Vázquez Gulías and
+        Manuel Conde among others.\n\nThe lower Alameda, in turn, stands on the river Barbaña, at
+        the end of a tree-lined promenade where there is a female sculpture by Luís
+        Borrajo.</string>
+    <string name="see_long_posio_13">Enclosed urban park with unusual trees in these latitudes: it
+        was originally a botanical garden, created in the mid-19th century by teachers from the
+        neighbouring Otero Pedrayo Secondary School, who equipped it with trees and plants brought
+        from the Botanical Garden in Madrid. The garden came to gather up to 200 species.\n\nIt is
+        structured in three levels or terraces: the upper one (originally, the forest) stands out
+        for its dense woodland and has a playground for children; the middle level is occupied by
+        the traditional walk; and the bottom level is centered by a palm-lined promenade, a lush
+        rose garden, a fountain and a pond. Surely we may find some peacocks in our journey.\n\nThe
+        central promenade of these gardens is a traditional meeting place in the city; usually many
+        of the concerts during the summer festivals are performed here. It also has a café with a
+        terrace to rest in the shade of the banana trees.</string>
+    <string name="see_long_santa_maria_14">Its facade, made in a restrained Baroque style, does not
+        reveal the importance of this medieval church, located in the site of the previous cathedral
+        of Ourense. The church was rebuilt in 1084 after its devastation, and again in 1772. It has
+        three naves and three lanes framed by fluted pilasters. In the upper body, there are
+        heraldic motifs, a pediment and two towers on the sides.\n\nThe church can\'t be understood
+        without its monumental stairway, which connects the secluded Magdalene Square with the Main
+        Square.\n\nInside, there is an altarpiece made of wood -in its natural colour- in
+        Churrigueresque style. The statue of Holy Mary is taken out in procession on Holy Saturday
+        and on Easter Sunday. This curious ritual evokes the conflicts that for years confronted the
+        bishop and the municipal corporation in the city.\n\nThe current church was erected in 1722
+        on the initiative of bishop Marcelino Siuri, who increased the stonework. This explains why
+        the bishop\'s palace is at its side.</string>
+    <string name="see_long_paradise_15">Located at the foot of the temple, the Gate of Paradise was
+        built along the lines of Santiago. The sculpture set, one of the gems of the Ourense
+        Cathedral, dazzles with its suggestive, almost hypnotic polychromy.\n\nThe statues in the
+        columns reproduce the prophets. Among them, we may find Daniel with a friendly smile. Also
+        the apostles with their books. The central arch retains the 24 elders of the Apocalypse,
+        musicians carrying instruments from that time that seem to interact with each other in a
+        lively talk.\n\nLeaning against the mullion there is a central statue of St. James. Above
+        it, in a niche, we find a character on horseback, sword in hand. It is Saint Martin, patron
+        of Ourense, who according to tradition in a winter day cut his cloak in half with his
+        blade, offering it to a beggar.\n\nOn the walls, two anonymous paintings from the 18th
+        century showing St Christopher and St Ildefonsus.</string>
+    <string name="see_long_theatre_16">In the old street of shoemakers, Mr Santiago Sáez built a
+        theatre. The year was 1830 and the new theatre was built in the fashion of the time, in
+        Italian style, halfway between Baroque and Romanticism.\n\nCentre of Ourense\'s cultural
+        life but also of the social and politic life, throughout its history the building underwent
+        numerous transformations and refurbishments, such as that undertaken in 1915 to turn it into
+        a cinema. In the 90s the city recovered this space after the major restoration which gave
+        it its current design. Keeping the traditional elements, its dome incorporated frescoes by
+        Xaime Quessada, and its design explains why the peanut gallery is called \"the paradise\"
+        here.</string>
+    <string name="see_long_auditorium_17">Opened in 2005, the Auditorium occupies a privileged
+        space in the city. It was built by architect José Manuel Casabella, who designed and
+        adapted it to the steep slope with a curvilinear path that respects the surrounding streets.
+        \n\nIt is a versatile multipurpose space. It has three rooms and a two-floor underground
+        parking. The lobbies are comfortably dimensioned to accommodate exhibitions and various
+        cultural and social events.\n\nThey are well lit spaces with views over the city, through
+        its glass facade.</string>
+    <string name="see_long_sil_18">The Ribeira Sacra is an area that includes the banks of the
+        rivers Cabe, Sil and Miño, in the south zone of the province of Lugo and the north of the
+        province of Ourense. The Ribeira Sacra is especially known for its natural and biological
+        treasures, constituting a vast ecosystem of great variety and richness. The Sil canyons
+        stand out for their spectacular landscape. This is an area in which the river runs encased
+        through landscapes and mountains that have been described as extremely beautiful.\n\nThe
+        canyons have viewpoints enabled to admire its impressive monumentality, as well as a
+        catamaran open to the public that crosses the canyons from one to the other side.\n\nThis
+        place is also known for the quality of its wines. The vineyards, which can be seen along
+        the course of the river, are arranged in a system of stone steps, called terraces, along
+        the bank, and date back to Roman times.</string>
+    <string name="see_long_pedro_19">In addition to the spectacular landscapes, the Ribeira Sacra
+        is also known for its spiritual past. The toponym \"Ribeira Sacra\" could come from the
+        Middle Ages . It was thought that the origin of its denomination would be in the Latin
+        \"Rivoira Sacrata\", that could respond to the great amount of monasteries and temples
+        located in the monumental Canyons and steep slopes that line the area. The ancient monks
+        probably selected this place as their house due to the natural peace that can still be
+        breathed nowadays.\n\nOne of the most remarkable monasteries of Ourense is St. Pedro de
+        Rocas, located in the municipality of Esgos.</string>
+    <string name="see_long_waterfalls_20">In Galicia, the water becomes art. One example of this are
+        the beautiful landscapes created the rivers waterfalls. Located in the municipality of
+        Silleda, you can find the spectacular Fervenza do Toxa.</string>
+    <string name="see_long_castro_21">This archaeological site is essential to understand a
+        fundamental part of the city\'s past. It combines historical values with natural ones,
+        derived from a contour that not only retains a peculiar vegetation but enjoys a privileged
+        location with stunning views over the city.\n\nFrom an archaeological perspective, Santomé
+        stands out as one of the few examples in Spain where you can still see the coexistence, in
+        time and space, of two very different cultures. In the highest part there are remains of a
+        castro, a fortified settlement typical of the Celtic peoples of the Iron Age; in the plain,
+        there is a customary Galician-Roman villa. Both date from the 1st century A.D., which shows
+        how Roman modes and forms coexisted in perfect symbiosis with previous traditions, creating
+        models that will survive long in rural Galicia.</string>
+    <string name="see_long_velle_22">Although not strictly a bridge, the road through Velle\'s
+        hydroelectric plant and its dam are a common crossing point of river Minho, for both
+        vehicles and pedestrians. Its construction in 1963 allowed to connect the neighbourhoods of
+        O Vinteun and A Lonia.\n\nAlthough it is only possible to cross the dam during daytime, it
+        offers good views of the Velle waterfall. Its five water gates take the pushes of rivers
+        Minho and Sil at the entrance of the city.\n\n300 meters upstream, the Velle bridge was built
+        in 1992, connecting the roads of Santigo and Monforte de Lemos.</string>
+
+    <!--Places to see. Address-->
+    <string name="see_address_cathedral_1">Praza do Trigo, S/N, 32005</string>
+    <string name="see_address_bridge_2">Rúa Ponte Romana, 32001</string>
+    <string name="see_address_burgas_3">Rúa Burgas, 14, 32005</string>
+    <string name="see_address_main_square_4">Praza Maior, 2, 32005</string>
+    <string name="see_address_millennium_5">Ponte do Milenio, 32002</string>
+    <string name="see_address_old_town_6">Praza do Trigo, 6, 32005</string>
+    <string name="see_address_ferro_7">Praza do Ferro, 32005</string>
+    <string name="see_address_eufemia_8">Rúa Lamas Carvajal, 7, 32005</string>
+    <string name="see_address_praza_9">Praza Abastos, 1, 32003</string>
+    <string name="see_address_cosme_10">Rúa Cabeza de Manzaneda, 29, 32005</string>
+    <string name="see_address_cloister_11">Rúa Emilia Pardo Bazán, 45, 32004</string>
+    <string name="see_address_alameda_12">Rúa do Progreso, 53, 32005</string>
+    <string name="see_address_posio_13">Rúa Lugo, 1, 32005</string>
+    <string name="see_address_santa_maria_14">Rúa Santa María, 1, 32005</string>
+    <string name="see_address_paradise_15">Praza do Trigo, S/N, 32005</string>
+    <string name="see_address_theatre_16">Rúa da Paz, 9, 32005</string>
+    <string name="see_address_auditorium_17">Rúa da Canle, 2, 32004</string>
+    <string name="see_address_sil_18">Parada de Sil, 32740</string>
+    <string name="see_address_pedro_19">Parroquia Rosas, s/n, 32720 Esgos</string>
+    <string name="see_address_waterfalls_20">Pazos, Silleda, 36589</string>
+    <string name="see_address_castro_21">Santo Tome, 8, 32960</string>
+    <string name="see_address_velle_22">Baixada Praia Oira, 23A, 32001</string>
+
+    <!--Where to eat. Titles-->
+    <string name="eat_title_pingallo_1">Pingallo</string>
+    <string name="eat_title_sanmiguel_2">Restaurante Gastrobar Sanmiguel</string>
+    <string name="eat_title_acubillo_3">O Acubillo do Pepelu</string>
+    <string name="eat_title_kyoto_4">Kyoto Galicia</string>
+    <string name="eat_title_parrillada_5">Parrillada Don Pablo</string>
+    <string name="eat_title_orellas_6">Bar Orellas</string>
+    <string name="eat_title_dos_puertas_7">Dos Puertas</string>
+    <string name="eat_title_arcodavella_8">O Arco da Vella</string>
+    <string name="eat_title_catorce_9">O catorce</string>
+    <string name="eat_title_tapa_negra_10">Tapa Negra</string>
+    <string name="eat_title_meigallo_11">Taberna do Meigallo</string>
+    <string name="eat_title_sabela_12">O Lar da Sabela</string>
+    <string name="eat_title_pulpo_13">A Casa do Pulpo</string>
+    <string name="eat_title_tixola_14">Tixola Tapería Vinoteca</string>
+    <string name="eat_title_gula_15">La Gula</string>
+    <string name="eat_title_tarazana_16">Taberna Pulpería Atarazana</string>
+    <string name="eat_title_barallete_17">Barallete</string>
+    <string name="eat_title_cogumelo_18">O Cogumelo</string>
+    <string name="eat_title_candido_19">Chocolatería Cándido</string>
+    <string name="eat_title_pontevella_20">Ponte Vella</string>
+    <string name="eat_title_portovello_21">Portovello Tapas</string>
+    <string name="eat_title_coto_22">El Coto</string>
+    <string name="eat_title_jamon_23">Rey del Jamón</string>
+    <string name="eat_title_sanxes_24">Bar San Xés</string>
+    <string name="eat_title_alpendre_25">Alpendre</string>
+    <string name="eat_title_duque_26">Duque</string>
+    <string name="eat_title_souto_27">O Souto</string>
+    <string name="eat_title_pepita_28">La Pepita Burger Bar</string>
+
+    <!--Where to eat. Address-->
+    <string name="eat_address_pingallo_1">Rúa San Miguel, 4, 32005</string>
+    <string name="eat_address_sanmiguel_2">Rúa San Miguel, 12, 32005</string>
+    <string name="eat_address_acubillo_3">Rúa dos Fornos, 20, 32005</string>
+    <string name="eat_address_kyoto_4">Rúa San Miguel, 9, 32005</string>
+    <string name="eat_address_parrillada_5">Rúa Francisco Llorens Díaz, 17, 32002</string>
+    <string name="eat_address_orellas_6">Rúa Santo Domingo, 2, 32003</string>
+    <string name="eat_address_dos_puertas_7">Rúa dos Fornos, 7, 32005</string>
+    <string name="eat_address_arcodavella_8">Rúa dos Fornos, 9, 32005</string>
+    <string name="eat_address_catorce_9">Praza de Los Suaves, 32005</string>
+    <string name="eat_address_tapa_negra_10">Rúa Pena Corneira, 1, 32005</string>
+    <string name="eat_address_meigallo_11">Praza do Ferro, 7, 32003</string>
+    <string name="eat_address_sabela_12">Praza Eironciño dos Cabaleiros, 32001</string>
+    <string name="eat_address_pulpo_13">Rúa Juan de Austria, 15, 32005</string>
+    <string name="eat_address_tixola_14">Rúa Juan de Austria, 2, 32005</string>
+    <string name="eat_address_gula_15">Rúa Pena Corneira, 2, 32005</string>
+    <string name="eat_address_tarazana_16">Rúa dos Fornos, 11, 32005</string>
+    <string name="eat_address_barallete_17">Rúa Lepanto, 29, 32005</string>
+    <string name="eat_address_cogumelo_18">Rúa Lepanto, 3, 32005</string>
+    <string name="eat_address_candido_19">Rúa Irmáns Villar, 15, 32005</string>
+    <string name="eat_address_pontevella_20">Rúa Ribeira Sacra, 50, 32003</string>
+    <string name="eat_address_portovello_21">Parque das Mercedes, 4, 32004</string>
+    <string name="eat_address_coto_22">Rúa de Reza, 11, 32003</string>
+    <string name="eat_address_jamon_23">Rúa Lepanto, 13, 32005</string>
+    <string name="eat_address_sanxes_24">Rúa da Paz, 10, 32005</string>
+    <string name="eat_address_alpendre_25">Rúa dos Fornos 1, 32005</string>
+    <string name="eat_address_duque_26">Rúa Santo Domingo, 1, 32005</string>
+    <string name="eat_address_souto_27">Rúa dos Fornos, 12, 32005</string>
+    <string name="eat_address_pepita_28">Av. Habana, 68, 32004</string>
+
+    <!--Where to eat. Short description [CHAR LIMIT=TODO]-->
+    <string name="eat_short_pingallo_1">Warm and friendly atmosphere</string>
+    <string name="eat_short_sanmiguel_2">Innovative cuisine, traditional or modern</string>
+    <string name="eat_short_acubillo_3">Traditional and homemade cuisine</string>
+    <string name="eat_short_kyoto_4">Japanese restaurant in Ourense</string>
+    <string name="eat_short_parrillada_5">Grilled meats, churrasco and Portuguese cod at the
+        entrance of the Millennium Bridge</string>
+    <string name="eat_short_orellas_6">One of the most prestigious restaurants in Ourense</string>
+    <string name="eat_short_dos_puertas_7">A must stop</string>
+    <string name="eat_short_arcodavella_8">Famous for its tortillas</string>
+    <string name="eat_short_catorce_9">Located in one of the most visited areas of the historical
+        center of the city. Well known for its Mexican homemade food</string>
+    <string name="eat_short_tapa_negra_10">Best value for money</string>
+    <string name="eat_short_meigallo_11">Galician homemade cuisine in the historic centre</string>
+    <string name="eat_short_sabela_12">Homemade cuisine in the old town</string>
+    <string name="eat_short_pulpo_13">A piece of sea into the inland</string>
+    <string name="eat_short_tixola_14">Their specialties: broken egg pans and homemade
+        croquettes</string>
+    <string name="eat_short_gula_15">An original place, known for its ox mini burgers and with good
+        views to the cathedral</string>
+    <string name="eat_short_tarazana_16">A place to enjoy the flavours of Ourense</string>
+    <string name="eat_short_barallete_17">Wide menu of tapas in the heart of the Ferro
+        Square</string>
+    <string name="eat_short_cogumelo_18">Tapas for all tastes, also vegan food</string>
+    <string name="eat_short_candido_19">Possibly the best chocolate and churros in the city</string>
+    <string name="eat_short_pontevella_20">A shopping centre with a varied number of restaurants and
+        shops</string>
+    <string name="eat_short_portovello_21">A team of young people with the desire to create
+        something different in Ourense</string>
+    <string name="eat_short_coto_22">A space devoted to the best fish and meat</string>
+    <string name="eat_short_jamon_23">Its specialty: "El Completo", tortilla, bacon and croquette.
+        Must stop in the old town</string>
+    <string name="eat_short_sanxes_24">Best \"empanadillas\" of the city</string>
+    <string name="eat_short_alpendre_25">Galician cuisine in the heart of the historical
+        centre</string>
+    <string name="eat_short_duque_26">Friendly place in the old town</string>
+    <string name="eat_short_souto_27">Its specialty: the "bombs" with meat or Arzúa
+        cheese</string>
+    <string name="eat_short_pepita_28">Quality burgers</string>
+
+    <!--Where to eat. Phone-->
+    <string name="eat_phone_pingallo_1">+34 88 68 69 05</string>
+    <string name="eat_phone_sanmiguel_2">+34 988 23 60 06</string>
+    <string name="eat_phone_acubillo_3">+34 693 107 128</string>
+    <string name="eat_phone_kyoto_4">+34 988 22 10 36</string>
+    <string name="eat_phone_parrillada_5">+34 988 248 421</string>
+    <string name="eat_phone_orellas_6">+34 988 37 25 59</string>
+    <string name="eat_phone_dos_puertas_7">+34 988 22 11 16</string>
+    <string name="eat_phone_arcodavella_8">+34 988 24 64 06</string>
+    <string name="eat_phone_catorce_9">+34 988 240 922|+34 607 236 581</string>
+    <string name="eat_phone_tapa_negra_10">+34 677 28 62 74</string>
+    <string name="eat_phone_meigallo_11">+34 988 233 405</string>
+    <string name="eat_phone_sabela_12">+34 988 23 88 20</string>
+    <string name="eat_phone_pulpo_13">+34 988 23 83 08</string>
+    <string name="eat_phone_tixola_14">+34 646 457 274</string>
+    <string name="eat_phone_gula_15">+34 988 24 86 76</string>
+    <string name="eat_phone_tarazana_16">+34 988 24 69 10</string>
+    <string name="eat_phone_barallete_17">+34 648 016 393|+34 648 016 392</string>
+    <string name="eat_phone_cogumelo_18">+34 675 023 457</string>
+    <string name="eat_phone_candido_19">+34 988 229 697</string>
+    <string name="eat_phone_pontevella_20">+34 988 51 02 32</string>
+    <string name="eat_phone_portovello_21">+34 988 21 46 86</string>
+    <string name="eat_phone_coto_22">+34 988 240 121</string>
+    <string name="eat_phone_jamon_23">+34 647 710 884</string>
+    <string name="eat_phone_sanxes_24">null</string>
+    <string name="eat_phone_alpendre_25">+34 607 012 921</string>
+    <string name="eat_phone_duque_26">+34 988 23 79 73</string>
+    <string name="eat_phone_souto_27">+34 687 520 131</string>
+    <string name="eat_phone_pepita_28">+34 988 61 99 89</string>
+
+    <!--Where to eat. Website-->
+    <string name="eat_web_pingallo_1">www.pingallo.es/</string>
+    <string name="eat_web_sanmiguel_2">http://www.sanmiguelourense.es/</string>
+    <string name="eat_web_acubillo_3">
+        https://www.facebook.com/pages/O-Acubillo-Do-pepelu/548220438620936</string>
+    <string name="eat_web_kyoto_4">http://kyotogalicia.com/restaurantes/ourense/</string>
+    <string name="eat_web_parrillada_5">http://www.parrilladadonpablo.es/</string>
+    <string name="eat_web_orellas_6">http://www.barorellas.com/</string>
+    <string name="eat_web_dos_puertas_7">
+        https://www.facebook.com/pg/Bar-Dos-Puertas-197021067125397/about/</string>
+    <string name="eat_web_arcodavella_8">null</string>
+    <string name="eat_web_catorce_9">https://www.facebook.com/mesontaperia.ocatorce</string>
+    <string name="eat_web_tapa_negra_10">
+        https://www.facebook.com/Tapa-Negra-1494319447474415/?rf=501581749955681</string>
+    <string name="eat_web_meigallo_11">
+        https://www.facebook.com/pages/Taberna-do-Meigallo/177349952310640</string>
+    <string name="eat_web_sabela_12">
+        ://www.facebook.com/O-lar-da-Sabela-154828227893437/</string>
+    <string name="eat_web_pulpo_13">
+        https://www.facebook.com/acasadopulpo/?rf=175694789122317</string>
+    <string name="eat_web_tixola_14">https://www.facebook.com/tixola.vinacoteca</string>
+    <string name="eat_web_gula_15">https://www.facebook.com/pages/La-Gula/536635026386249</string>
+    <string name="eat_web_tarazana_16">http://atarazanaourense.com/</string>
+    <string name="eat_web_barallete_17">null</string>
+    <string name="eat_web_cogumelo_18">https://www.facebook.com/O-Cogumelo-147200235438376</string>
+    <string name="eat_web_candido_19">
+        https://www.facebook.com/pages/Chocolateria-Candido/423806397656766</string>
+    <string name="eat_web_pontevella_20">ccpontevella.com/</string>
+    <string name="eat_web_portovello_21">http://www.portovelloauria.com/</string>
+    <string name="eat_web_coto_22">https://www.facebook.com/RestauranteCoto</string>
+    <string name="eat_web_jamon_23">https://www.facebook.com/Rey-del-jamon-546519255366359/</string>
+    <string name="eat_web_sanxes_24">null</string>
+    <string name="eat_web_alpendre_25">
+        https://www.facebook.com/pages/Meson-O-Alpendre/247218551959467</string>
+    <string name="eat_web_duque_26">https://www.facebook.com/duqueou</string>
+    <string name="eat_web_souto_27">https://www.facebook.com/pages/O-Souto/662639363764217</string>
+    <string name="eat_web_pepita_28">www.lapepitaburgerbar.com/</string>
+
+    <!--Where to eat. Timetable [CHAR LIMIT=TODO]-->
+    <string name="eat_timetable_pingallo_1">Mon to Sun: 12:00&#8211;16:30 and 20:00 to
+        close</string>
+    <string name="eat_timetable_sanmiguel_2">Tue to Sat: 13:30&#8211;16:00 and 20:00&#8211;23:30.
+        Sun: 13:30&#8211;16:00</string>
+    <string name="eat_timetable_acubillo_3">Mon to Sun: 13:00&#8211;16:00 and 20:00&#8211;00:30.
+        Closed on Tue</string>
+    <string name="eat_timetable_kyoto_4">Mon to Sun: 13:30&#8211;16:00 and 21:00&#8211;23:30.
+        Closed on Tue and Wed midday.</string>
+    <string name="eat_timetable_parrillada_5">Mon to Sat: 11:00&#8211;00:00. Sun:
+        11:00&#8211;16:00</string>
+    <string name="eat_timetable_orellas_6">Mon to Sun: 10:00&#8211;14:30 and 19:00&#8211;23:30. On
+        Fri and Sat it closes at 00:00. Closed on Tue</string>
+    <string name="eat_timetable_dos_puertas_7">Tue to Sun: 18:00&#8211;00:00</string>
+    <string name="eat_timetable_arcodavella_8">Mon to Sun: 12:00&#8211;15:00 and
+        18:00&#8211;00:00</string>
+    <string name="eat_timetable_catorce_9">Mon to Sun: 11:00&#8211;16:00 and 19:00 to close.
+        Closed on Wed</string>
+    <string name="eat_timetable_tapa_negra_10">Mon to Sun: 13:00&#8211;16:00 and
+        20:00&#8211;00:00</string>
+    <string name="eat_timetable_meigallo_11">Mon to Sat: 13:00&#8211;16:00 and 20:00&#8211;01:00.
+        Closed on Sun</string>
+    <string name="eat_timetable_sabela_12">Tue to Sun: 11:00&#8211;15:00 and 19:00 to close</string>
+    <string name="eat_timetable_pulpo_13">Mon to Sun: 12:00&#8211;16:30 and
+        20:00&#8211;00:30</string>
+    <string name="eat_timetable_tixola_14">Tue to Sun: 12:00&#8211;16:00 and 20:00&#8211;00:30.
+        Closed on Mon (Opened on Mon and closed on Sun in Summer)</string>
+    <string name="eat_timetable_gula_15">Mon: 13:00&#8211;16:00, Tue to Sun: 13:00&#8211;
+        23:00</string>
+    <string name="eat_timetable_tarazana_16">Mon to Sun: 13:00&#8211;16:00 and
+        20:00&#8211;00:00</string>
+    <string name="eat_timetable_barallete_17">Mon to Sun: 12:00&#8211;16:00 and
+        19:00&#8211;00:30</string>
+    <string name="eat_timetable_cogumelo_18">Tue to Sun: 19:00 to close. Closed on Mon</string>
+    <string name="eat_timetable_candido_19">Mon to Thu: 07:30&#8211;00:00. Fri: 07:30&#8211;03:00.
+        Sat: 09:00&#8211;03:00. Sun: 09:00&#8211;00:00</string>
+    <string name="eat_timetable_pontevella_20">Mon to Sun: 10:00&#8211;22:00</string>
+    <string name="eat_timetable_portovello_21">Mon to Sun: 12:00&#8211;01:00. On
+        Fri and Sat it closes at 03:30</string>
+    <string name="eat_timetable_coto_22">Mon to Sun: 13:00&#8211;16:00 and
+        21:00&#8211;00:00</string>
+    <string name="eat_timetable_jamon_23">Mon to Sun: 19:00&#8211;00:00. Closed on Wed</string>
+    <string name="eat_timetable_sanxes_24">null</string>
+    <string name="eat_timetable_alpendre_25">Mon to Sun: 11:30&#8211;16:00 and 19:00&#8211;00:30.
+        Closed on Tue</string>
+    <string name="eat_timetable_duque_26">Tue to Sun: 11:00&#8211;23:45</string>
+    <string name="eat_timetable_souto_27">Mon to Fri: 18:00&#8211;01:00. Sat and Sun:
+        11:30&#8211;15:30 and 18:00&#8211;01:00. Closed on Wed</string>
+    <string name="eat_timetable_pepita_28">Mon to Sun: 13:30&#8211;16:00 and 20:30&#8211;23:30. On
+        Fri and Sat it closes at 00:00</string>
+
+    <!--Where to eat. Type-->
+    <string name="eat_type_pingallo_1">Restaurant</string>
+    <string name="eat_type_sanmiguel_2">Tapas|Restaurant</string>
+    <string name="eat_type_acubillo_3">Galician|Tapas</string>
+    <string name="eat_type_kyoto_4">Japanese</string>
+    <string name="eat_type_parrillada_5">Grill|Galician</string>
+    <string name="eat_type_orellas_6">Galician|Tapas</string>
+    <string name="eat_type_dos_puertas_7">Tapas</string>
+    <string name="eat_type_arcodavella_8">Tapas</string>
+    <string name="eat_type_catorce_9">Mexican|Tapas</string>
+    <string name="eat_type_tapa_negra_10">Tapas</string>
+    <string name="eat_type_meigallo_11">Tapas|Grill</string>
+    <string name="eat_type_sabela_12">Galician|Tapas</string>
+    <string name="eat_type_pulpo_13">Galician|Tapas</string>
+    <string name="eat_type_tixola_14">Wine|Tapas</string>
+    <string name="eat_type_gula_15">Tapas</string>
+    <string name="eat_type_tarazana_16">Galician|Tapas</string>
+    <string name="eat_type_barallete_17">Tapas</string>
+    <string name="eat_type_cogumelo_18">Tapas</string>
+    <string name="eat_type_candido_19">Bar</string>
+    <string name="eat_type_pontevella_20">Fast-Food|Italian|Restaurant|Turkish</string>
+    <string name="eat_type_portovello_21">Tapas</string>
+    <string name="eat_type_coto_22">Tapas|Restaurant</string>
+    <string name="eat_type_jamon_23">Tapas</string>
+    <string name="eat_type_sanxes_24">Tapas</string>
+    <string name="eat_type_alpendre_25">Galician</string>
+    <string name="eat_type_duque_26">Bar|Restaurant</string>
+    <string name="eat_type_souto_27">Tapas</string>
+    <string name="eat_type_pepita_28">American</string>
+
+    <!--Where to sleep. Titles [CHAR LIMIT=NONE]-->
+    <string name="sleep_title_princess_1">Princess Hotel</string>
+    <string name="sleep_title_auriense_2">Eurostars Auriense Hotel</string>
+    <string name="sleep_title_irixo_3">Irixo Hotel</string>
+    <string name="sleep_title_nh_4">NH Ourense Hotel</string>
+    <string name="sleep_title_sanmartin_5">San Martín Great Hotel</string>
+    <string name="sleep_title_francisco_6">Francisco II Hotel</string>
+    <string name="sleep_title_minho_7">Miño Hotel</string>
+    <string name="sleep_title_zarampallo_8">Zarampallo Hotel</string>
+    <string name="sleep_title_carris_9">Carrís Cardenal Quevedo Hotel</string>
+    <string name="sleep_title_altiana_10">Altiana Hotel</string>
+    <string name="sleep_title_ponte_11">Puente Romano Hotel</string>
+    <string name="sleep_title_mabu_12">Mabú Hotel</string>
+    <string name="sleep_title_rotonda_13">La Rotonda Hostel</string>
+    <string name="sleep_title_grelo_14">Grelo Hostel</string>
+
+    <!--Where to sleep. Address-->
+    <string name="sleep_address_princess_1">Avenida Habana, 45, 32004</string>
+    <string name="sleep_address_auriense_2">Alto do Cumial, 12, 32915</string>
+    <string name="sleep_address_irixo_3">Rúa Irmáns Villar, 15, 32005</string>
+    <string name="sleep_address_nh_4">Celso Emilio Ferreiro, 24, 32004</string>
+    <string name="sleep_address_sanmartin_5">Curros Enríquez, 1, 32004</string>
+    <string name="sleep_address_francisco_6">Bedoya, 17, 32004</string>
+    <string name="sleep_address_minho_7">Xoan XXIII, 2, 32003</string>
+    <string name="sleep_address_zarampallo_8">Irmáns Villar, 19, 32005</string>
+    <string name="sleep_address_carris_9">Cardenal Quevedo, 28&#8211;30, 32004</string>
+    <string name="sleep_address_altiana_10">Ervedelo, 14, 32003</string>
+    <string name="sleep_address_ponte_11">Ramón Puga, 56, 32005</string>
+    <string name="sleep_address_mabu_12">Estrada Vigo-Pino, 39, 32001</string>
+    <string name="sleep_address_rotonda_13">Avenida de Marín, 41, 32002</string>
+    <string name="sleep_address_grelo_14">Pena Trevinca, 40, 32005</string>
+
+    <!--Where to sleep. Short description [CHAR LIMIT=TODO]-->
+    <string name="sleep_short_princess_1">Classic hotel a few metres from the shopping
+        centre</string>
+    <string name="sleep_short_auriense_2">Hotel of modern design, located in a natural environment
+        but a step away from the city centre</string>
+    <string name="sleep_short_irixo_3">Small hotel at a carefully restored building in the heart of
+        the Historic Centre</string>
+    <string name="sleep_short_nh_4">In the city centre. Enjoy their anti-ox breakfast buffet and
+        the fitness area with sauna and spa</string>
+    <string name="sleep_short_sanmartin_5">Rooms with a view in one of the tallest buildings in the
+        city</string>
+    <string name="sleep_short_francisco_6">Modern rooms and suites with free Wi-Fi,gym and Turkish
+        bath</string>
+    <string name="sleep_short_minho_7">A modern twist hotel, located in the commercial area of
+        central Ourense</string>
+    <string name="sleep_short_zarampallo_8">Charming family hotel in the historic centre of Ourense
+        since 1941</string>
+    <string name="sleep_short_carris_9">A boutique hotel newly built on two historic buildings in
+        the centre of Ourense</string>
+    <string name="sleep_short_altiana_10">Central and friendly small hotel, you\'ll feel right at
+        home</string>
+    <string name="sleep_short_ponte_11">Small and cozy hotel located a few metres from Ourense
+        Hospital</string>
+    <string name="sleep_short_mabu_12">Mabu is the best located and closest hotel to the thermal
+        resources of the city</string>
+    <string name="sleep_short_rotonda_13">Renovated in 2012, this hostel next to the train station
+        has 20 rooms with TV, private bathroom and WiFi</string>
+    <string name="sleep_short_grelo_14">Good deal tourist hostel, very close to the city centre,
+        ideal for young travellers who want to discover the city</string>
+
+    <!--Where to sleep. Long description [CHAR LIMIT=NONE]-->
+    <string name="sleep_long_princess_1">The Princess hotel is located in the centre of Ourense, in
+        one of the main streets of the city and just a few metres from the Paseo shopping street,
+        leading directly to the historic centre.\n\nHotel services include a cafe and a restaurant,
+        free Wi-Fi throughout the hotel and laundry service. Guests can shop at any of the stores
+        located inside.\n\nIn its accommodation, the Princess hotel has 56 rooms equipped with air
+        conditioner, satellite TV and optional hydromassage.</string>
+    <string name="sleep_long_auriense_2">Eurostars Auriense is a hotel with modern design. It has
+        134 fully equipped rooms and offers facilities with meeting rooms, business center, garden
+        and outdoor pool.\n\nA short distance away is the Montealegre Golf Club, with magnificent
+        views of its surroundings. It offers an attractive 18-hole course with a high level of both
+        physical and technical demand.</string>
+    <string name="sleep_long_irixo_3">With a prime location in the historic centre of Ourense,
+        overlooking the square Eironciño dos Cabaleiros, the Hotel Irixo occupies a recently
+        renovated building, two minutes away from the Cathedral and five from As Burgas. Nearby you
+        can find shops and all kinds of lesiure and entertainment.\n\nIts 13 rooms are equipped with
+        heating, TV and private bathroom and TV. By its design and location, the Hotel Irixo becomes
+        a fantastic option to enjoy the city, its culture and its history.\n\nPet friendly hotel.\n
+        \nBicycles are allowed.</string>
+    <string name="sleep_long_nh_4">NH Ourense is a modern hotel in the city centre, just 10 minutes
+        from the hot springs of river Minho and within a walking distance of the historic area. In
+        addition to the 21 Standard rooms and 8 Standard Single, the hotel offers 9 elegant and
+        comfortable suites that are easily adapted to families and groups of up to 4 members.\n\nAll
+        rooms are attractively decorated with elegant Italian furniture, wooden floors and modern
+        design, plus they have a variety of thoughtful amenities: complimentary Internet connection
+        (WiFi), satellite TV, mini-bars and comfortable mattresses, among other.</string>
+    <string name="sleep_long_sanmartin_5">Located in the emblematic building of La Torre in the
+        centre of Ourense, the Gran Hotel San Martin dominates St Lazarus\' Park. It has 90 rooms,
+        including a presidential suite, equipped with air conditioner, satellite TV, Wi-Fi and
+        clothes-rack and trouser press.\n\nIn the centre of Ourense, a few metres from the start of
+        Paseo street, where one of the main shopping areas is located, the hotel location
+        facilitates the movement of its customers for the main tourist and leisure spots of the
+        city.</string>
+    <string name="sleep_long_francisco_6">The Francisco II is located in the city centre of Ourense
+        , just 50 metres from St Lazarus\' Park and one of the main shopping streets of the city:
+        Paseo. It has 55 rooms and a cafeteria to meet all the needs of its customers, with an
+        extensive menu of fast food.\n\nThe hotel has Wi-Fi, gym, Turkish bath, a hair salon and
+        business center.\n\nUp to 4 conference rooms, the Francisco II hotel offers a catering
+        service for events, conferences and meetings.</string>
+    <string name="sleep_long_minho_7">Its 35 rooms, double and single, are fully equipped to meet
+        the needs of customers, who will find in this hotel the perfect place for an urban visit, a
+        business trip or a family trip to Ourense. It has its own cafeteria for snacks or something
+        sweet.\n\nBicycles are admitted.</string>
+    <string name="sleep_long_zarampallo_8">Run by the same family since 1941, you will find a
+        professional and friendly service where you can enjoy the tranquility that give our rooms.\n
+        \nThe hotel has 15 comfortable and functional rooms, 11 doubles, 3 with double beds and 1
+        single, with possibility of adding an extra bed or cot. Some feature landscaped balconies.
+        They have private bathroom, shower cubicle, hairdryer and toiletries.</string>
+    <string name="sleep_long_carris_9">The Carrís Cardenal Quevedo is strategically located in one
+        of the most central and busy streets of the city, a few metres from the historic centre of
+        Ourense, St Lazarus Park, the train station and river Minho. It is right next to the
+        shopping and entertainment district.\n\nIts modern facilities make it a place with charm and
+        sophistication. Even the smallest detail was designed to give the best customer service,
+        with 39 rooms highlighting the space, comfort and design. It offers fully equipped meeting
+        rooms and a restaurant with a menu with typical local products.</string>
+    <string name="sleep_long_altiana_10">Small hotel in the centre of the city, known for its
+        attentive service and family atmosphere.\n\nIt has 32 rooms equipped with flat screen HD TV,
+        heating and telephone.\n\nPets are allowed on request.</string>
+    <string name="sleep_long_ponte_11">A team of professionals, always attentive to your needs, will
+        welcome you in a nice family atmosphere paying special attention to detail. From the
+        decoration, modern and functional, to a home-made and delicate cuisine, this hotel is
+        devoted (since 1996) to offer the well-known Galician cordiality and hospitality.\n\nAmong
+        the features of this hotel stand out the free parking for customers, internet access via
+        WiFi, air conditioner, laundry and fax.</string>
+    <string name="sleep_long_mabu_12">Just one kilometer from the Hot Springs of A Chavasqueira and
+        less than two kilometers from the famous Hot Springs of Outariz.\n\nWell connected with the
+        most tourist areas of the city and a few minutes from the centre.\n\nAttention, comfort and
+        facilities at the best price.</string>
+    <string name="sleep_long_rotonda_13">Renovated in 2012, La Rotonda hostel is located a few
+        metres from the train station and the main tourist attraction of the city: river Minho\'s
+        Thermal Route.\n\nThe hostel has 10 rooms facing out, all equipped with aprivate bathroom,
+        heating, a LED 24″ TV and free WiFi. Services as its 24-hour reception desk, the daily
+        newspapers, private parking or cocktail bar will make your stay more comfortable and
+        enjoyable, all in a family atmosphere.</string>
+    <string name="sleep_long_grelo_14">Grelo Hostel is a stop along the way, a place where you can
+        regain strength before continuing with the hard pilgrimage towards Santiago de Compostela.
+        The starting point for an unforgettable holiday discovering Ourense, its province and the
+        rest of inland Galicia.\n\nThe Grelo Hostel has 32 beds in shared rooms. The reservation
+        includes breakfast for each guest every day. There is a common room with tables where you
+        can eat, organize your trip or hang out. The common area has vending machines. Free WiFi
+        access in all rooms and public areas of the hostel.\n\nIt features laundry facilities and
+        parking for bicycles.</string>
+
+    <!--Where to sleep. Phone-->
+    <string name="sleep_phone_princess_1">+34 988 269 538</string>
+    <string name="sleep_phone_auriense_2">+34 988 234 900</string>
+    <string name="sleep_phone_irixo_3">+34 988 254 620</string>
+    <string name="sleep_phone_nh_4">+34 988 601 111</string>
+    <string name="sleep_phone_sanmartin_5">+34 988 372 138</string>
+    <string name="sleep_phone_francisco_6">+34 988 242 095</string>
+    <string name="sleep_phone_minho_7">+34 988 217 594</string>
+    <string name="sleep_phone_zarampallo_8">+34 988 220 053</string>
+    <string name="sleep_phone_carris_9">+34 988 375 523</string>
+    <string name="sleep_phone_altiana_10">+34 988 370 128</string>
+    <string name="sleep_phone_ponte_11">+34 988 231 520|+34 988 253 418</string>
+    <string name="sleep_phone_mabu_12">+34 988 217 842</string>
+    <string name="sleep_phone_rotonda_13">+34 988 607 759</string>
+    <string name="sleep_phone_grelo_14">+34 988 614 564</string>
+
+    <!--Where to sleep. Mail-->
+    <string name="sleep_mail_princess_1"> hprincess@hotelprincessorense.com</string>
+    <string name="sleep_mail_auriense_2">reservas@eurostarsauriense.com</string>
+    <string name="sleep_mail_irixo_3">info@hotelirixo.es</string>
+    <string name="sleep_mail_nh_4">nhourense@nh-hotels.com</string>
+    <string name="sleep_mail_sanmartin_5">reservas@granhotelsanmartin.es</string>
+    <string name="sleep_mail_francisco_6">hfranciscoii@gmail.com</string>
+    <string name="sleep_mail_minho_7">hmourense@hmourense.com</string>
+    <string name="sleep_mail_zarampallo_8">zarampallo@zarampallo.com</string>
+    <string name="sleep_mail_carris_9">cardenalquevedo@carrishoteles.com</string>
+    <string name="sleep_mail_altiana_10">info@hotelaltiana.com</string>
+    <string name="sleep_mail_ponte_11">reservas@hotelpuenteromano.com</string>
+    <string name="sleep_mail_mabu_12">info@hotelmabu.com</string>
+    <string name="sleep_mail_rotonda_13">contacto@larotondahostalourense.com</string>
+    <string name="sleep_mail_grelo_14">info@grelohostel.com</string>
+
+    <!--Where to sleep. Website-->
+    <string name="sleep_web_princess_1">www.hotelprincess.net/</string>
+    <string name="sleep_web_auriense_2">www.eurostarsauriense.com</string>
+    <string name="sleep_web_irixo_3">www.hotelirixo.es</string>
+    <string name="sleep_web_nh_4">www.nh-hoteles.es/</string>
+    <string name="sleep_web_sanmartin_5">www.granhotelsanmartin.com/</string>
+    <string name="sleep_web_francisco_6">www.hotelfrancisco.net</string>
+    <string name="sleep_web_minho_7">www.hmourense.com</string>
+    <string name="sleep_web_zarampallo_8">www.zarampallo.es/</string>
+    <string name="sleep_web_carris_9">
+        www.carrishoteles.com/hoteles/ourense/hotel-carris-cardenal-quevedo-ourense.html</string>
+    <string name="sleep_web_altiana_10">www.hotelaltiana.com</string>
+    <string name="sleep_web_ponte_11">www.hotelpuenteromano.com</string>
+    <string name="sleep_web_mabu_12">https://www.hotelmabu.com/</string>
+    <string name="sleep_web_rotonda_13">www.larotondahostalourense.com</string>
+    <string name="sleep_web_grelo_14">www.grelohostel.com</string>
+
+    <!--Where to sleep. Stars-->
+    <string name="sleep_stars_princess_1">3</string>
+    <string name="sleep_stars_auriense_2">4</string>
+    <string name="sleep_stars_irixo_3">1</string>
+    <string name="sleep_stars_nh_4">4</string>
+    <string name="sleep_stars_sanmartin_5">4</string>
+    <string name="sleep_stars_francisco_6">4</string>
+    <string name="sleep_stars_minho_7">1</string>
+    <string name="sleep_stars_zarampallo_8">1</string>
+    <string name="sleep_stars_carris_9">4</string>
+    <string name="sleep_stars_altiana_10">2</string>
+    <string name="sleep_stars_ponte_11">2</string>
+    <string name="sleep_stars_mabu_12">1</string>
+    <string name="sleep_stars_rotonda_13">1</string>
+    <string name="sleep_stars_grelo_14">1</string>
+
+    <!--Text to share. [CHAR LIMIT=NONE]-->
+    <string name="shared_text">Now enjoying
+        <xliff.g example="Princess Hotel" id="location name">%s</xliff.g> in
+        <xliff.g example="Ourense" id="city name">%s</xliff.g>. Would you like to have a good time
+        in a new place? <xliff.g example="Discover Ourense" id="App name">%s</xliff.g>!</string>
+
+</resources>
