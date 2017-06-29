@@ -370,34 +370,6 @@ public class LocationCategoryFragment extends Fragment {
                         getString(R.string.eat_web_sanxes_24),
                         getString(R.string.eat_timetable_sanxes_24),
                         getString(R.string.eat_type_sanxes_24), R.drawable.eat_sanxes_24));
-                locations.add(new Location(getString(R.string.eat_title_alpendre_25),
-                        getString(R.string.eat_address_alpendre_25),
-                        getString(R.string.eat_short_alpendre_25),
-                        getString(R.string.eat_phone_alpendre_25),
-                        getString(R.string.eat_web_alpendre_25),
-                        getString(R.string.eat_timetable_alpendre_25),
-                        getString(R.string.eat_type_alpendre_25), R.drawable.eat_alpendre_25));
-                locations.add(new Location(getString(R.string.eat_title_duque_26),
-                        getString(R.string.eat_address_duque_26),
-                        getString(R.string.eat_short_duque_26),
-                        getString(R.string.eat_phone_duque_26),
-                        getString(R.string.eat_web_duque_26),
-                        getString(R.string.eat_timetable_duque_26),
-                        getString(R.string.eat_type_duque_26), R.drawable.eat_duque_26));
-                locations.add(new Location(getString(R.string.eat_title_souto_27),
-                        getString(R.string.eat_address_souto_27),
-                        getString(R.string.eat_short_souto_27),
-                        getString(R.string.eat_phone_souto_27),
-                        getString(R.string.eat_web_souto_27),
-                        getString(R.string.eat_timetable_souto_27),
-                        getString(R.string.eat_type_souto_27), R.drawable.eat_souto_27));
-                locations.add(new Location(getString(R.string.eat_title_pepita_28),
-                        getString(R.string.eat_address_pepita_28),
-                        getString(R.string.eat_short_pepita_28),
-                        getString(R.string.eat_phone_pepita_28),
-                        getString(R.string.eat_web_pepita_28),
-                        getString(R.string.eat_timetable_pepita_28),
-                        getString(R.string.eat_type_pepita_28), R.drawable.eat_pepita_28));
                 break;
             case 3:
                 locations.add(new Location(getString(R.string.sleep_title_princess_1),

@@ -556,10 +556,6 @@
     <string name="eat_title_coto_22">El Coto</string>
     <string name="eat_title_jamon_23">Rey del Jamón</string>
     <string name="eat_title_sanxes_24">Bar San Xés</string>
-    <string name="eat_title_alpendre_25">Alpendre</string>
-    <string name="eat_title_duque_26">Duque</string>
-    <string name="eat_title_souto_27">O Souto</string>
-    <string name="eat_title_pepita_28">La Pepita Burger Bar</string>
 
     <!--Where to eat. Address-->
     <string name="eat_address_pingallo_1">Rúa San Miguel, 4, 32005</string>
@@ -586,10 +582,6 @@
     <string name="eat_address_coto_22">Rúa de Reza, 11, 32003</string>
     <string name="eat_address_jamon_23">Rúa Lepanto, 13, 32005</string>
     <string name="eat_address_sanxes_24">Rúa da Paz, 10, 32005</string>
-    <string name="eat_address_alpendre_25">Rúa dos Fornos 1, 32005</string>
-    <string name="eat_address_duque_26">Rúa Santo Domingo, 1, 32005</string>
-    <string name="eat_address_souto_27">Rúa dos Fornos, 12, 32005</string>
-    <string name="eat_address_pepita_28">Av. Habana, 68, 32004</string>
 
     <!--Where to eat. Short description [CHAR LIMIT=TODO]-->
     <string name="eat_short_pingallo_1">Warm and friendly atmosphere</string>
@@ -624,12 +616,6 @@
     <string name="eat_short_jamon_23">Its specialty: "El Completo", tortilla, bacon and croquette.
         Must stop in the old town</string>
     <string name="eat_short_sanxes_24">Best \"empanadillas\" of the city</string>
-    <string name="eat_short_alpendre_25">Galician cuisine in the heart of the historical
-        centre</string>
-    <string name="eat_short_duque_26">Friendly place in the old town</string>
-    <string name="eat_short_souto_27">Its specialty: the "bombs" with meat or Arzúa
-        cheese</string>
-    <string name="eat_short_pepita_28">Quality burgers</string>
 
     <!--Where to eat. Phone-->
     <string name="eat_phone_pingallo_1">+34 88 68 69 05</string>
@@ -656,10 +642,6 @@
     <string name="eat_phone_coto_22">+34 988 240 121</string>
     <string name="eat_phone_jamon_23">+34 647 710 884</string>
     <string name="eat_phone_sanxes_24">null</string>
-    <string name="eat_phone_alpendre_25">+34 607 012 921</string>
-    <string name="eat_phone_duque_26">+34 988 23 79 73</string>
-    <string name="eat_phone_souto_27">+34 687 520 131</string>
-    <string name="eat_phone_pepita_28">+34 988 61 99 89</string>
 
     <!--Where to eat. Website-->
     <string name="eat_web_pingallo_1">www.pingallo.es/</string>
@@ -693,11 +675,6 @@
     <string name="eat_web_coto_22">https://www.facebook.com/RestauranteCoto</string>
     <string name="eat_web_jamon_23">https://www.facebook.com/Rey-del-jamon-546519255366359/</string>
     <string name="eat_web_sanxes_24">null</string>
-    <string name="eat_web_alpendre_25">
-        https://www.facebook.com/pages/Meson-O-Alpendre/247218551959467</string>
-    <string name="eat_web_duque_26">https://www.facebook.com/duqueou</string>
-    <string name="eat_web_souto_27">https://www.facebook.com/pages/O-Souto/662639363764217</string>
-    <string name="eat_web_pepita_28">www.lapepitaburgerbar.com/</string>
 
     <!--Where to eat. Timetable [CHAR LIMIT=TODO]-->
     <string name="eat_timetable_pingallo_1">Mon to Sun: 12:00&#8211;16:30 and 20:00 to
@@ -742,13 +719,6 @@
         21:00&#8211;00:00</string>
     <string name="eat_timetable_jamon_23">Mon to Sun: 19:00&#8211;00:00. Closed on Wed</string>
     <string name="eat_timetable_sanxes_24">null</string>
-    <string name="eat_timetable_alpendre_25">Mon to Sun: 11:30&#8211;16:00 and 19:00&#8211;00:30.
-        Closed on Tue</string>
-    <string name="eat_timetable_duque_26">Tue to Sun: 11:00&#8211;23:45</string>
-    <string name="eat_timetable_souto_27">Mon to Fri: 18:00&#8211;01:00. Sat and Sun:
-        11:30&#8211;15:30 and 18:00&#8211;01:00. Closed on Wed</string>
-    <string name="eat_timetable_pepita_28">Mon to Sun: 13:30&#8211;16:00 and 20:30&#8211;23:30. On
-        Fri and Sat it closes at 00:00</string>
 
     <!--Where to eat. Type-->
     <string name="eat_type_pingallo_1">Restaurant</string>
@@ -775,10 +745,6 @@
     <string name="eat_type_coto_22">Tapas|Restaurant</string>
     <string name="eat_type_jamon_23">Tapas</string>
     <string name="eat_type_sanxes_24">Tapas</string>
-    <string name="eat_type_alpendre_25">Galician</string>
-    <string name="eat_type_duque_26">Bar|Restaurant</string>
-    <string name="eat_type_souto_27">Tapas</string>
-    <string name="eat_type_pepita_28">American</string>
 
     <!--Where to sleep. Titles [CHAR LIMIT=NONE]-->
     <string name="sleep_title_princess_1">Princess Hotel</string>
